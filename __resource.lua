@@ -1,8 +1,8 @@
 server_scripts{
-'sv/config.lua',
+'config.lua',
 'sv/main.lua'
 }
 client_scripts{
-'cl/config.lua',
+'config.lua',
 'cl/main.lua'
 }
